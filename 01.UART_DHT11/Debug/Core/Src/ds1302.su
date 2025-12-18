@@ -1,0 +1,7 @@
+../Core/Src/ds1302.c:24:6:ds1302_mod_set	40	static
+../Core/Src/ds1302.c:46:6:ds1302_data_read	32	static
+../Core/Src/ds1302.c:71:6:ds1302_data_write	24	static
+../Core/Src/ds1302.c:88:6:ds1302_com_write	24	static
+../Core/Src/ds1302.c:107:6:ds1302_write	24	static
+../Core/Src/ds1302.c:143:6:ds1302_read	16	static
+../Core/Src/ds1302.c:181:6:ds1302_main	32	static

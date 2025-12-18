@@ -1,0 +1,8 @@
+../Core/Src/ds1302.c:24:6:ds1302_mod_set	2
+../Core/Src/ds1302.c:46:6:ds1302_data_read	3
+../Core/Src/ds1302.c:70:6:ds1302_data_write	2
+../Core/Src/ds1302.c:87:6:ds1302_com_write	2
+../Core/Src/ds1302.c:106:6:ds1302_write	1
+../Core/Src/ds1302.c:142:6:ds1302_read	1
+../Core/Src/ds1302.c:182:6:recv_parsing	5
+../Core/Src/ds1302.c:219:6:ds1302_main	2

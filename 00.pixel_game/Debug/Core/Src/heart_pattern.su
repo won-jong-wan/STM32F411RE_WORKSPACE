@@ -1,0 +1,5 @@
+../Core/Src/heart_pattern.c:3:6:shift_out	24	static
+../Core/Src/heart_pattern.c:15:6:shift_out_lsb	24	static
+../Core/Src/heart_pattern.c:27:6:latch_data	8	static
+../Core/Src/heart_pattern.c:32:6:display_heart	32	static
+../Core/Src/heart_pattern.c:43:6:pattern_modify	16	static
